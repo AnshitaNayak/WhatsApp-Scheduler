@@ -45,7 +45,7 @@ setInterval( async () => {
     						.create({
     						    body: reminder.reminderMsg,
     						    from: 'whatsapp:+14155238886',
-    						    to: 'whatsapp:+919098832173'
+    						    to: 'whatsapp:+918962699754'
     						})
                     }
                 }
